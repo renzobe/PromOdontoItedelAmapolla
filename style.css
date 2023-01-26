@@ -10,6 +10,14 @@ body{
    background-size: 100% ;  
    background-repeat: no-repeat;
 }
+
+h3 {
+    font-size: calc(1rem + .6vw);
+}
+
+p{
+    font-size: calc(0.5rem + .6vw);
+}
 .area{
     background: #9fd6f8;  
     background: -webkit-linear-gradient(to left, #c730d5, #4e54c8);  
