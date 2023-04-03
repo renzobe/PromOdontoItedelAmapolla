@@ -20,6 +20,6 @@
 
 export const guardar_cliente = (nombre,celular,correo,fuente) =>{
     //Agregando  
-    addDoc(collection(conecc,'amapolla'),{nombre,celular,correo,fuente})
+    addDoc(collection(conecc,'amapola'),{nombre,celular,correo,fuente})
 
 }
